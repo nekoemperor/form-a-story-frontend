@@ -9,7 +9,7 @@ Forms are great for collecting information on users, like job applications or in
 The logic for parsing and inserting of user inputs is already taken care of in main.js using JavaScript. I’ve also added some styling to the page in style.css.
 
 ## The Website
-<p align="center"><img src="https://github.com/nekoemperor/dasmoto-art-craft-frontend/blob/master/resources/images/DasmotoArtCraft.gif" width="768"  />
+<p align="center"><img src="https://github.com/nekoemperor/form-a-story-frontend/blob/master/assets/form-a-story.gif" width="768"  />
 
 
 
