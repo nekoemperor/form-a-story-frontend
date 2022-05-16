@@ -1,4 +1,4 @@
-## Off-Platform Project: Form a Story (from CodeCademy)
+## Off-Platform Project: Form a Story (follow-along Project from CodeCademy)
 
 In this project, I built a simple interactive website with HTML/CSS/JavaScript.
 
